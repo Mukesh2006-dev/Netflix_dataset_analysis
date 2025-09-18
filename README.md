@@ -55,4 +55,4 @@ This is a mini project where I explored a dataset of Netflix movies and TV shows
 
 1. Clone this repo:  
 ```bash
-git clone <repo-link>
+git clone <[repo-link](https://github.com/Mukesh2006-dev/Netflix_dataset_analysis)>
